@@ -1,0 +1,33 @@
+c:\users\foxblood\documents\visual studio 2015\Projects\Discord DM Bot\Discord DM Bot\bin\Debug\Discord DM Bot.exe.config
+c:\users\foxblood\documents\visual studio 2015\Projects\Discord DM Bot\Discord DM Bot\bin\Debug\Discord DM Bot.exe
+c:\users\foxblood\documents\visual studio 2015\Projects\Discord DM Bot\Discord DM Bot\bin\Debug\Discord DM Bot.pdb
+c:\users\foxblood\documents\visual studio 2015\Projects\Discord DM Bot\Discord DM Bot\obj\Debug\Discord DM Bot.csprojResolveAssemblyReference.cache
+c:\users\foxblood\documents\visual studio 2015\Projects\Discord DM Bot\Discord DM Bot\obj\Debug\Discord_DM_Bot.Form1.resources
+c:\users\foxblood\documents\visual studio 2015\Projects\Discord DM Bot\Discord DM Bot\obj\Debug\Discord_DM_Bot.Properties.Resources.resources
+c:\users\foxblood\documents\visual studio 2015\Projects\Discord DM Bot\Discord DM Bot\obj\Debug\Discord DM Bot.csproj.GenerateResource.Cache
+c:\users\foxblood\documents\visual studio 2015\Projects\Discord DM Bot\Discord DM Bot\obj\Debug\Discord DM Bot.exe
+c:\users\foxblood\documents\visual studio 2015\Projects\Discord DM Bot\Discord DM Bot\obj\Debug\Discord DM Bot.pdb
+c:\users\foxblood\documents\visual studio 2015\Projects\Discord DM Bot\Discord DM Bot\obj\Debug\Discord_DM_Bot.ServerUserControl.resources
+c:\users\foxblood\documents\visual studio 2015\Projects\Discord DM Bot\Discord DM Bot\bin\Debug\Discord.Net.Commands.dll
+c:\users\foxblood\documents\visual studio 2015\Projects\Discord DM Bot\Discord DM Bot\bin\Debug\Discord.Net.Core.dll
+c:\users\foxblood\documents\visual studio 2015\Projects\Discord DM Bot\Discord DM Bot\bin\Debug\Discord.Net.Rest.dll
+c:\users\foxblood\documents\visual studio 2015\Projects\Discord DM Bot\Discord DM Bot\bin\Debug\Discord.Net.Rpc.dll
+c:\users\foxblood\documents\visual studio 2015\Projects\Discord DM Bot\Discord DM Bot\bin\Debug\Discord.Net.Webhook.dll
+c:\users\foxblood\documents\visual studio 2015\Projects\Discord DM Bot\Discord DM Bot\bin\Debug\Discord.Net.WebSocket.dll
+c:\users\foxblood\documents\visual studio 2015\Projects\Discord DM Bot\Discord DM Bot\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+c:\users\foxblood\documents\visual studio 2015\Projects\Discord DM Bot\Discord DM Bot\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+c:\users\foxblood\documents\visual studio 2015\Projects\Discord DM Bot\Discord DM Bot\bin\Debug\Newtonsoft.Json.dll
+c:\users\foxblood\documents\visual studio 2015\Projects\Discord DM Bot\Discord DM Bot\bin\Debug\System.Collections.Immutable.dll
+c:\users\foxblood\documents\visual studio 2015\Projects\Discord DM Bot\Discord DM Bot\bin\Debug\System.Interactive.Async.dll
+c:\users\foxblood\documents\visual studio 2015\Projects\Discord DM Bot\Discord DM Bot\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+c:\users\foxblood\documents\visual studio 2015\Projects\Discord DM Bot\Discord DM Bot\bin\Debug\Discord.Net.Commands.xml
+c:\users\foxblood\documents\visual studio 2015\Projects\Discord DM Bot\Discord DM Bot\bin\Debug\Discord.Net.Core.xml
+c:\users\foxblood\documents\visual studio 2015\Projects\Discord DM Bot\Discord DM Bot\bin\Debug\Discord.Net.Rest.xml
+c:\users\foxblood\documents\visual studio 2015\Projects\Discord DM Bot\Discord DM Bot\bin\Debug\Discord.Net.Rpc.xml
+c:\users\foxblood\documents\visual studio 2015\Projects\Discord DM Bot\Discord DM Bot\bin\Debug\Discord.Net.Webhook.xml
+c:\users\foxblood\documents\visual studio 2015\Projects\Discord DM Bot\Discord DM Bot\bin\Debug\Discord.Net.WebSocket.xml
+c:\users\foxblood\documents\visual studio 2015\Projects\Discord DM Bot\Discord DM Bot\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+c:\users\foxblood\documents\visual studio 2015\Projects\Discord DM Bot\Discord DM Bot\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+c:\users\foxblood\documents\visual studio 2015\Projects\Discord DM Bot\Discord DM Bot\bin\Debug\Newtonsoft.Json.xml
+c:\users\foxblood\documents\visual studio 2015\Projects\Discord DM Bot\Discord DM Bot\bin\Debug\System.Collections.Immutable.xml
+c:\users\foxblood\documents\visual studio 2015\Projects\Discord DM Bot\Discord DM Bot\bin\Debug\System.Interactive.Async.xml
